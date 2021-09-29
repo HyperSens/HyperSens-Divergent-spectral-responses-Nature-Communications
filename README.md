@@ -34,7 +34,7 @@ The codes provided in this repository are detailed as follows:
 | ------------- |:-----------------| -----|
 |<li> Leaf measurements analysis </li> <li> Feature-weighted Random Forest </li> <li> Unsupervised reclassification </li>|  <a href="https://github.com/HyperSens/HyperSens-Divergent-spectral-responses-Nature-Communications/blob/main/Codes/"></i>Codes</a> |  <li> Code for the analysis of leaf data to reproduce Figure 2e-j</li> <li> Feature weighted Random forest algorithm including the feature importance into the models </li> <li> Spectral clustering algorithm that uses divergent-specific biotic and abiotic spectral traits </li>  | 
 
- These codes and databases can be cited as follows:
+ These codes and databases can be cited as follows: https://doi.org/10.5281/zenodo.5535095
  ___
 
 
