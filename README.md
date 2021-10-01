@@ -28,7 +28,7 @@ The datasets provided in this repository are detailed as follows:
 <sup>**  Databases containing plant traits estimated by model inversion and spectral indices calculated from the hyperspectral and thermal imagery </sup> <br>
 <sup>*** Databases containing Disease severity (SEV), plant traits estimated by model inversion and spectral indices calculated from the hyperspectral and thermal imagery, and qPCR data</sup>
 ___
-The codes provided in this repository are detailed as follows:
+The codes provided in this repository are detailed as follows: https://doi.org/10.5281/zenodo.5535095
 
 | Code | Download  | Description |
 | ------------- |:-----------------| -----|
